@@ -15,3 +15,6 @@ In addition, before the training step image processing techniques were applied b
 I trained the models with Adam optimizer because the Adam algorithm is a computationally efficient algorithm. For the activation function, Sigmoid function was used. I achieved the highest accuracy with 91% for EfficientNetB5 among all models and 82% accuracy for the validation dataset.
 
 <img width="492" alt="Ekran Resmi 2023-02-28 23 22 37" src="https://user-images.githubusercontent.com/75835998/221969714-f18c6f9f-3088-4f28-ae63-b97cb5c846ed.png">
+
+
+Also, you can read all documentation of the project from this link: https://docs.google.com/document/d/1QkEF7ps78nMqagXWxdMJ87k4QjEe3x8m/edit?usp=sharing&ouid=113027671940448470385&rtpof=true&sd=true
